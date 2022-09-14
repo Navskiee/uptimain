@@ -13,7 +13,6 @@
 }
 body{
   background: #233142;
-  
 }
 .whistle{
   width: 20%;
